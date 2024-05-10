@@ -28,3 +28,10 @@
 2.Demonstrates the power of AI in streamlining developer workflows.
 
 3.Showcases the potential of combining natural language processing with web development.
+
+
+
+
+https://github.com/krakken190/SqlQueryGenerator/assets/72223902/70961457-d572-4d95-bd8d-cae551de1fd0
+
+
